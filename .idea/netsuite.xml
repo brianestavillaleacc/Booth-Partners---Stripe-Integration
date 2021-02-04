@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AccountsInformationState">
+    <option name="accountsInformation">
+      <Toplevel>
+        <option name="molecules">
+          <Molecules>
+            <option name="molecule">
+              <array>
+                <Molecule>
+                  <option name="UUID" value="63eb7589-7e2c-408a-b0f6-6afeaf9f0dd8" />
+                  <option name="description" value="Production" />
+                  <option name="url" value="system.netsuite.com" />
+                </Molecule>
+              </array>
+            </option>
+          </Molecules>
+        </option>
+        <option name="sdkSettings">
+          <SdkSettings>
+            <option name="moleculeSettings">
+              <MoleculeSettings>
+                <option name="moleculeSetting">
+                  <array>
+                    <MoleculeSetting>
+                      <option name="accounts">
+                        <Accounts>
+                          <option name="account">
+                            <array>
+                              <Account>
+                                <option name="companies">
+                                  <Companies>
+                                    <option name="company">
+                                      <array>
+                                        <Company>
+                                          <option name="UUID" value="9cc18f80-1047-444e-bca6-ea99640b2053" />
+                                          <option name="accountType" value="PRODUCTION" />
+                                          <option name="id" value="6342572" />
+                                          <option name="name" value="Booth &amp; Partners Pte Ltd Consolidated" />
+                                          <option name="restDomain" value="6342572.restlets.api.netsuite.com" />
+                                          <option name="roles">
+                                            <Roles>
+                                              <option name="role">
+                                                <array>
+                                                  <Role>
+                                                    <option name="name" value="Administrator" />
+                                                    <option name="nkey" value="3" />
+                                                    <option name="tokenId" value="dd9cc35c98c30229d2fea3c7ef3107d35502ecbe908611a405fc0c677b9e35326148b42b5e8827ef8366eb20dac5bc015afa15cb964f2eff923e2b2dba09b6051b7be7fa95b23ef91b3c907ffbbd074b" />
+                                                    <option name="tokenSecret" value="fb9bb8e90dea07ca93fb4661a146102e06d8e994c678ddc40f59f526365175265078b25260ca3d0d0c3e1582c999d06d7f63ca630d465dcdfdfce46a3722d5551b7be7fa95b23ef91b3c907ffbbd074b" />
+                                                  </Role>
+                                                </array>
+                                              </option>
+                                            </Roles>
+                                          </option>
+                                          <option name="systemDomain" value="6342572.app.netsuite.com" />
+                                          <option name="webservicesDomain" value="6342572.suitetalk.api.netsuite.com" />
+                                        </Company>
+                                      </array>
+                                    </option>
+                                  </Companies>
+                                </option>
+                                <option name="email" value="brianestavilla@gmail.com" />
+                                <option name="password" value="3316b8fa8e0b304efa3a2d7e872a38797c5901f642aaf43d2e7f1f38def9401a" />
+                              </Account>
+                            </array>
+                          </option>
+                        </Accounts>
+                      </option>
+                      <option name="molecule">
+                        <Molecule>
+                          <option name="UUID" value="63eb7589-7e2c-408a-b0f6-6afeaf9f0dd8" />
+                        </Molecule>
+                      </option>
+                    </MoleculeSetting>
+                  </array>
+                </option>
+              </MoleculeSettings>
+            </option>
+          </SdkSettings>
+        </option>
+      </Toplevel>
+    </option>
+    <option name="projectSettings">
+      <ProjectSettings>
+        <option name="accountRoleId" value="3" />
+        <option name="accountSpecificValuesSeverity" value="ERROR" />
+        <option name="accountUUID" value="9cc18f80-1047-444e-bca6-ea99640b2053" />
+        <option name="applyContentProtection" value="false" />
+      </ProjectSettings>
+    </option>
+  </component>
+</project>
